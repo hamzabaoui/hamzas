@@ -1,0 +1,93 @@
+body {
+    background: rgb(0, 18, 107);
+    background: radial-gradient(circle, rgba(0, 18, 107, 1) 0%, rgba(0, 0, 0, 1) 100%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: system-ui;
+    min-height: 100vh;
+}
+
+.me {
+    max-width: 1600px;
+    padding: 20px;
+    line-height: 1.6;
+    color: whitesmoke;
+    margin-right:90px;
+    margin-top:250px;
+    margin-left:200px;
+    background-color: rgba(0, 0, 0, 0);
+    border-radius:10px;
+}
+.the-picture {
+    width: 500px;
+    border-radius: 30px;
+    margin-left: 70px;
+    margin-top: 100px;
+    float: left;
+}
+.sba7{
+    margin-top:300px;
+    color: aliceblue;
+    margin-left:50px;
+}
+.instagram{
+margin-left: 20px;
+border-radius: 30px;
+
+}
+.whatsapp{
+width: 246px;
+margin-left: 555px;
+border-radius: 30px;
+}
+.gmail{
+    width: 246px;
+    margin-left: 500px;
+    border-radius: 30px;
+}
+.instagram_txt{
+    color: white;
+    margin-left:30px;
+    padding-left:20px;
+    background-color: rgb(0, 0, 0);
+    padding-top:10px;
+    padding-bottom:10px;
+    max-width: 200px;
+    margin-top: 20px;
+    transition: 0.30s;
+    border-radius: 10px;
+}
+.instagram_txt:hover{
+    color: rgb(79, 79, 79);
+    background-color:lightblue;
+}
+.whatsapp_txt{
+    color: white;
+    margin-left: 857px;
+    background-color: rgb(0, 0, 0);
+    padding-left: 20px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    max-width: 160px;
+    border-radius:10px;
+    transition: 0.30s;
+}
+.whatsapp_txt:hover{
+    background-color: lightblue;
+    color: rgb(79, 79, 79);
+}
+.gmail_txt{
+    color: rgb(255, 255, 255);
+    margin-left:1520px;
+    background-color: rgb(0, 0, 0);
+    padding-top:10px;
+    padding-bottom:10px;
+    max-width: 340px;
+    padding-left: 20px;
+    transition: 0.30s;
+    border-radius:10px;
+}
+.gmail_txt:hover{
+    background-color:lightblue;
+    color: rgb(79, 79, 79);
+}
